@@ -1,0 +1,46 @@
+<!DOCTYPE>
+
+<html>
+ <head>
+    <meta charset = "UTF-8">
+    <meta name = "author" content = "RYE">
+    <meta name = "description" cotent = "Hi im amogus from the hit game AMOGUS">
+      <title> Main Page </title>
+     <link rel="icon" href="html5.png" type="image/x-icon">
+ 	<link rel="stylesheet" href="main.css" type="text/css">
+  </head>
+   
+  <body>
+    <p> RYE </p
+    
+
+  </body>
+      &copy; <a href = "about.html"> About Me </a>
+<html>
+
+
+
+///////////////////////////-ANOTHER FILE BELOW-////////////////////////////
+
+<!DOCTYPE>
+
+<html>
+  <head>
+    <meta charset = "UTF-8">
+    <meta name = "author" content = "RYE">
+    <meta name = "description" cotent = "Hi im amogus from the hit game AMOGUS">
+      <title> About Me </title>
+     <link rel="icon" href="html5.png" type="image/x-icon">
+ 	<link rel="stylesheet" href="main.css" type="text/css">
+  </head>
+       
+  <body>
+    <h1> HI IM AMOGUS </h1>
+    <hr>
+    <p> sussy bikey </p>
+      <p> lorem ipsunm dolor sit amet </p>
+    
+  </body>
+       
+       
+</html>
