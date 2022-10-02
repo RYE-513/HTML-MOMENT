@@ -1,5 +1,7 @@
 <DOCTYPE! html>
   
+  <!-- TODO: AMOGUS -->
+  
   <html lang = 'en'>
   	<head>
       <title> RYE_BSCS </title>
@@ -7,7 +9,11 @@
     </head>
     <body>
     	<h1> RYE 1 - this is headline level 1 </h1>
-    <p> sample text using paragraph element </p>
+   		 <p> sample text using paragraph element </p>
+      <abbr title = "subo mo tite ko"> SMTK</abbr>
+      <p> this is my home adress:
+      <address><br>Blk 6 Lot 7 Phase 2 Amabelle Homes
+      </address></p>
     <hr>
     <hr>
     </head>
