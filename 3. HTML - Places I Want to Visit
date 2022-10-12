@@ -44,43 +44,46 @@
    		 <p>I live in <abbr title="Valenzuela City">VA</abbr> so I want visit a different places.</p>
     
         <h3>Place I'd Like to Visit</h3>
-        <ul>
+        <ul> <!--'<ul>' start tag of unordered list -->
         
-        <li>
+        <li> <!--'<il>' start tag of list item-->
       	  <p>I've heard good things about the <em>Ascension Cathedral.</em></p>
-        </li>
-        <li>
+        </li> <!--'</il>' end tag of list item-->
+          
+        <li> <!--'<il>' start tag of list item-->
     	  <p>I've heard good things about going here:</p>
           <address> 
       		 Ascension Cathedral <br>  
      		 Astrakhan, Russia<br>
      		 Astrakhan Oblast 414000
    		   </address>
-        </li>
+        </li> <!--'</il>' end tag of list item-->
       
-        <li>
+        <li> <!--'<il>' start tag of list item-->
     	   <p>I've heard good things about the <em>Nakafurano Flower Park.</em></p>
-        </li>
-        <li>
+        </li> <!--'</il>' end tag of list item-->
+            
+        <li> <!--'<il>' start tag of list item-->
    		    <p>I've heard good things about going here:</p>
             <address>
       			 2-1 Miyamachi, Nakafurano, Sorachi District<br>
       			 Hokkaido 071-0753<br>
      			 Japan
-    		</address>
-        </li>
+    		</address> 
+        </li> <!--'</il>' end tag of list item-->
 
-        <li>   
+        <li> <!--'<il>' start tag of list item-->   
     		<p>I've heard good things about the <em>Bacuit Bay</em></p>
-   		</li>
-        <li>
+   		</li> <!--'</il>' end tag of list item-->
+              
+        <li> <!--'<il>' start tag of list item-->
          	 <p>I've heard good things about going here:</p>
    			 <address>
        			  Bacuit Bay, Palawan<br>
      			  Philippines <br>
     		 </address>
-      	</li>
-    	</ul>
+      	</li> <!--'</il>' end tag of list item-->
+    	</ul> <!--'</ul>' end tag of unordered list -->
       
 
     <!-- TODO: Add more places -->
