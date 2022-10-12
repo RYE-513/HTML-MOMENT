@@ -1,0 +1,103 @@
+<!--places input list element -->
+<!--Places I Want to Avoid added -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Rye Ryan">
+    <meta name="description" content="This page contains all the things I am learning how to create as I learn HTML from Dave Gray Tutorial">
+     <title> Rye Ryan's First Webpage </title>
+    <link rel="icon" href="html5.png" type="image/x-icon">
+    <link rel="stylesheet" href="main.css" type="text/css">
+    <style>
+        html {
+            font-size: 15px;
+        }
+
+        body {
+            background-color: #189;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Welcome, Fellas!</h1>
+
+    <hr>
+
+  <h2>This is my first HTML Outline</h2>
+    <p>This is my first web page.</p>
+
+    <h3>Why i love to Learn programming</h3>
+    <p>Let me tell you how:
+        <br>&nbsp;&nbsp;&nbsp;...because i'm suffering from Ligma Disease
+        <br>&nbsp;&nbsp;&nbsp;...no short haired chinita gf
+        <br>&nbsp;&nbsp;&nbsp;...i have two cock <abbr title="Amogus">SUS</abbr>.
+
+    <hr>
+
+       <h2>Second Phase</h2>
+   		 <p>I've been working hard and <em>'really need a getaway'</em>.</p>
+   		 <p>I live in <abbr title="Valenzuela City">VA</abbr> so I want visit a different places.</p>
+    
+        <h3>Place I'd Like to Visit</h3>
+        <ul>
+        
+        <li>
+      	  <p>I've heard good things about the <em>Ascension Cathedral.</em></p>
+        </li>
+        <li>
+    	  <p>I've heard good things about going here:</p>
+          <address> 
+      		 Ascension Cathedral <br>  
+     		 Astrakhan, Russia<br>
+     		 Astrakhan Oblast 414000
+   		   </address>
+        </li>
+      
+        <li>
+    	   <p>I've heard good things about the <em>Nakafurano Flower Park.</em></p>
+        </li>
+        <li>
+   		    <p>I've heard good things about going here:</p>
+            <address>
+      			 2-1 Miyamachi, Nakafurano, Sorachi District<br>
+      			 Hokkaido 071-0753<br>
+     			 Japan
+    		</address>
+        </li>
+
+        <li>   
+    		<p>I've heard good things about the <em>Bacuit Bay</em></p>
+   		</li>
+        <li>
+         	 <p>I've heard good things about going here:</p>
+   			 <address>
+       			  Bacuit Bay, Palawan<br>
+     			  Philippines <br>
+    		 </address>
+      	</li>
+    	</ul>
+      
+
+    <!-- TODO: Add more places -->
+    <h3>Places I Want to Avoid</h3>
+    <dl>
+        <dt>North Pole</dt>
+        <dd>I hear this is <strong>cold</strong>!</dd>
+
+        <dt>South Pole</dt>
+        <dd>This is also cold.</dd>
+
+        <dt>Mountain Tops</dt>
+        <dd>These are also cold.</dd>
+    </dl>
+
+    <hr>
+    &lt;&lt;&lt; &copy; Rye Ryan &gt;&gt;&gt;
+</body>
+
+</html>
