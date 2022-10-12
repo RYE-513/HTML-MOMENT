@@ -85,19 +85,17 @@
       	</li> <!--'</il>' end tag of list item-->
     	</ul> <!--'</ul>' end tag of unordered list -->
       
-
-    <!-- TODO: Add more places -->
     <h3>Places I Want to Avoid</h3>
-    <dl>
-        <dt>North Pole</dt>
-        <dd>I hear this is <strong>cold</strong>!</dd>
-
+    <dl> <!--'<dl>' start tag of description list-->
+        <dt>North Pole</dt> <!--'<dt></dt>' start and end tag of description term-->
+        <dd>I hear this is <strong>cold</strong>!</dd> <!--'<dd></dd>' start and end tag of description details-->
+													   <!-- </strong> bold text -->
         <dt>South Pole</dt>
         <dd>This is also cold.</dd>
 
         <dt>Mountain Tops</dt>
         <dd>These are also cold.</dd>
-    </dl>
+    </dl> <!--'</dl>' end tag of description list-->
 
     <hr>
     &lt;&lt;&lt; &copy; Rye Ryan &gt;&gt;&gt;
