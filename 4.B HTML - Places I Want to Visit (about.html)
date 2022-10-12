@@ -1,46 +1,58 @@
+<!-- this is another file 'about.html' -->
+
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
-    <meta name="author" content="Dave Gray">
-    <meta name="description" content="Hi, I'm Dave Gray. This page is about me.">
-    <title>About Me</title>
+    <meta name="author" content="Rye Ryan">
+    <meta name="description" content="This page contains all the things I am learning how to create as I learn HTML from Dave Gray Tutorial">
+     <title> Rye Ryan's First Webpage </title>
     <link rel="icon" href="html5.png" type="image/x-icon">
     <link rel="stylesheet" href="main.css" type="text/css">
+    <style>
+        html {
+            font-size: 15px;
+        }
+
+        body {
+            background-color: #189;
+            color: white;
+        }
+    </style>
 </head>
 
 <body>
-    <h1>Hi, I'm Dave Gray</h1>
+    <h1>Hi, I'm Rye Ryan</h1>
 
     <hr>
 
     <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, laborum. Eum iure, ea, corporis odit
-        excepturi accusamus fugit blanditiis non ipsa, quae asperiores enim esse maiores ipsum illum? Incidunt, ducimus!
+        holabels👋👋👋, may kwento 🤲🤲🤲akiskis. Gorabells💪💪💪 ang lola🧓🧓🧓 nyey sa nyinistop🏪🏪🏪 para 		  magbuyla 🛍️🛍️🛍️meslu ng mga nyoging🍌🍌🍌. Syempre kelangan💪💪💪 ko magbreakfastlu🥪🥪🥪 diba? Syempre 		 sayla 😩😩😩ko yung mga nyoging🍌🍌🍌. Feel akis, oh nyoging🍌🍌🍌 nyoging 🍌🍌🍌pak. Pagka-getlasmes😱		😱😱 ng nyoging🍌🍌🍌, eto ang nabili kes. Mars, ang dakok😱😱😱. Ang daks🍌🍌🍌, ems. Maaaaarsssss😳😳		   😳, singlaki ng pesang 📏📏📏mey! Oh😮😮😮? Mars 🐨🐨🐨parang ano🤔🤔🤔 eh? Mars, nakakamatay⚰️⚰️⚰️. 		Oh oh oh look👀👀👀 oh? Hanggang ditobells 🤭🤭🤭e? Ang laki 😩😩😩maaars oh😱😱😱!!! Mars grabe😳😳		😳, ngayon lang ako makakakain🥣🥣🥣 ng ganitong nyoging🍌🍌🍌. Oh diba🤗🤗🤗.
+		“Hello? Oh?😮 Oh?😮 San kana?🤔🤔🤔 Oh andito na ko😊😊😊, oo.” Diba? Pwede😆😆 gawing nyelpon📱📱📱 oh 		diba. Pwede gawing😮😮😮 peys- pwede ganyan ganyan sa pesang🥰🥰🥰, ems! Eme! Ang laki📏🤯😱 ses!!! 			Ngayon lang ako makakain ng ganito kalaking nyoging🍌🍌🍌, ang daks😋😋😋 talaga sis💁‍♀️💁‍♀️💁‍♀️! Kahit nung 		nasa Qatar 🇶🇦🇶🇦🇶🇦ako, walang ganitong 😋😋😋kalaking saging 🍌🍌🍌sis. Super daks😱😱😱, diba🤔🤔🤔? 			Black dudes 🙎🏿‍♂️🙎🏿‍♂️🙎🏿‍♂️are shaking 🤝🤝🤝sis, ang laki 😱😱😱sis eh oh? Maaarssss ang lakiiiii!😱😱😱 I 			can’t!!!😤😤😤
     </p>
 
     <hr>
 
     <ul>
         <li>
-            Download an <a href="html5.png" download>HTML5 favicon</a>
+            Download an <a href="html5.png" download>HTML5 fave icon</a>
         </li>
         <li>
-            Contact me at <a href="mailto:random@email.com">my email address</a>.
+            Contact me at <a href="mailto:ryan13briz@gmail.com">my email address</a>.
         </li>
         <li>
-            Dial <a href="tel:+1234567890">my phone number</a>.
+            Dial <a href="+639453500983">my phone number</a>.
         </li>
         <li>
-            Open <a href="https://www.google.com/" target="_blank">Google</a> in a new tab.
+            Open <a href="https://www.github.com/" target="_blank">Github</a> in a new tab.
         </li>
     </ul>
 
     <hr>
-    &lt;&lt;&lt; &copy; <a href="about.html">Dave Gray</a> &gt;&gt;&gt;
+    &lt;&lt;&lt; &copy; <a href="about.html">Rye Ryan</a> &gt;&gt;&gt;
     <p>
-        <a href="/">Back to Home</a>
+        <a href="/">Back to Home</a> <!-- this syntax go at the main page -->
     </p>
 </body>
 
