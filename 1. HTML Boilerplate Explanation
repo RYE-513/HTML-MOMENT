@@ -1,0 +1,28 @@
+<!DOCTYPE html> <!-- this is important -->
+<html lang="en"> <!-- start tag of 'html' and this is important -->
+
+<head> <!--start tag of 'head'-->
+    <meta charset="UTF-8"> <!-- this is important -->
+    <meta name="author" content="Rye Ryan"> <!-- this is important -->
+    <meta name="description" content="This page contains all the things I am learning how to create as I learn HTML from Dave Gray Tutorial"> <!-- this is important -->
+    <title> Rye Ryan's First Webpage </title> <!-- give title of this page above -->
+    <link rel="icon" href="html5.png" type="image/x-icon"> <!--this is the icon, next to title-->
+    <link rel="stylesheet" href="main.css" type="text/css">
+    <style> <!--this is the first tag of 'style' and it's connected to 'body' tag below -->
+        html {
+            font-size: 20px;
+        }
+
+        body {
+            background-color: #333;
+            color: whitesmoke;
+        }
+    </style>  <!--end tag of 'style'-->
+</head> <!--end tag of 'head'-->
+
+<body> <!--start tag of 'body'-->
+    <h1>Hello World!</h1>
+    <p>This is my first web page.</p>
+</body> <!--end tag of 'body'-->
+
+</html> <!--end tag of 'html'-->
