@@ -21,8 +21,8 @@
 </head> <!--end tag of 'head'-->
 
 <body> <!--start tag of 'body'-->
-    <h1>Hello World!</h1>
-    <p>This is my first web page.</p>
+    <h1>Hello World!</h1> <!-- 'h1' means headline 1 it has h2..h6 these are the sizes to smalles -->
+    <p>This is my first web page.</p> <!-- 'p' means paragraph element-->
 </body> <!--end tag of 'body'-->
 
 </html> <!--end tag of 'html'-->
