@@ -1,4 +1,6 @@
-<!-- image, figure, figcaption element added-->
+<!-- <header>,  <nav aria-label="primary-navigation">, <main> element added-->
+<!-- <section id="html"> changed to <article id="html"> -->
+<!-- <aside>, <summary>, <details>, <time>, <datetime> added -->
 
 <!DOCTYPE html>
 <html lang="en">
