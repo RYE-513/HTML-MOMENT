@@ -39,9 +39,6 @@
     </nav>
 
     <hr>
-    
-    *************************************************************************************************************
-    MY CONTENT
 
     <section id="html">
         <h2>This is my first HTML Outline</h2>
@@ -52,7 +49,7 @@
         <figure> <!-- start tag of 'figure'>
             <figcaption>An Example of HTML5 code</figcaption> <!-- start/end tag of 'figcaption' - this is the title and combination for <code></code> -->
             <p>
-                <code>&lt;h1&gt;Hello World!&lt;/h1&gt;</code> <!-- start/end tag of 'code' - this is the format if you want to put syntax code outline together with figcaption -->
+                <code>&lt;h1&gt;Hello World!&lt;/h1&gt;</code> <!-- start/end tag of 'code' - this is the format if you want to put syntax code in HTML -->
            </p>
         </figure> <!-- end tag of 'figure'>
 
@@ -66,32 +63,39 @@
     </section>
     
 
-    
-*************************************************************************************************************
-MY CONTENT
-
     <hr>
       
     <section id="vacation">
         <h2>Second Phase</h2>
         <p>I've been working hard and <em>really need a getaway</em>.</p>
-        <p>I live in <abbr title="Valenzuela City">VA</abbr> so I want visit a different places.</p>
+	<p>I live in <abbr title="Valenzuela City">VA</abbr> so I want visit a different places.</p>
       
         <h3>Place I'd Like to Visit</h3>
         <ul>
-       		 <li> 
-      	  		<p>I've heard good things about the <em>Ascension Cathedral.</em></p>
+       		<li> 
+      	        	<p>I've heard good things about the <em>Ascension Cathedral.</em></p>
+		   	<figure> <--new added start/end tag of figure"-->
+        	            <img src="img/caribbean.jpg" alt="Caribbean Beach" title="I want to visit a Caribbean beach." width="400" height="225" loading="lazy">
+                   		<figcaption>Caribbean Beach Getaway</figcaption>
+                	</figure>
         	</li>
+		
         	<li> 
     	  		<p>I've heard good things about going here:</p>
           	<address> 
       		 	Ascension Cathedral <br>  
      			Astrakhan, Russia<br>
      		 	Astrakhan Oblast 414000
-   		   </address>
+   		</address>
+		<figure>
+                	    <img src="img/vacation.jpg" alt="Cancun Vacation" title="It's 5 o'Clock Somewhere!" width="400"height="267" loading="lazy">
+                    	<figcaption>A Caribbean Vacation Image</figcaption>
+                </figure>
+		   
        		</li>
-       
-      
+		
+		
+
         	<li>
     	  		 <p>I've heard good things about the <em>Nakafurano Flower Park.</em></p>
         	</li>
@@ -116,48 +120,7 @@ MY CONTENT
       		</li>
     	</ul> 
 	
-     *************************************************************************************************************
-     DAVES GRAY CONTENT
-	
-	
-	   <section id="vacation">
-        <h2>I Am Also Planning a Vacation</h2>
-        <p>I've been working hard and <em>really need a getaway</em>.</p>
-        <p>I live in <abbr title="Kansas">KS</abbr> so I want visit a beach.</p>
 
-        <h3>Places I'd Like to Visit</h3>
-        <ul>
-            <li>
-                <p>I've heard good things about the Caribbean.</p>
-                <figure>
-                    <img src="img/caribbean.jpg" alt="Caribbean Beach" title="I want to visit a Caribbean beach."
-                        width="400" height="225" loading="lazy">
-                    <figcaption>
-                        Caribbean Beach Getaway
-                    </figcaption>
-                </figure>
-            </li>
-            <li>
-                <p>I've heard good things about going here:</p>
-                <address>
-                    Margaritaville Island Reserve Riviera Cancún<br>
-                    Bahia Petempich Puerto Morelos, Mexico<br>
-                    Colonia Morelos, México 77580
-                </address>
-                <figure>
-                    <img src="img/vacation.jpg" alt="Cancun Vacation" title="It's 5 o'Clock Somewhere!" width="400"
-                        height="267" loading="lazy">
-                    <figcaption>
-                        A Caribbean Vacation Image
-                    </figcaption>
-                </figure>
-            </li>
-        </ul>
-	
-	     *************************************************************************************************************
-	
-	
-      
     <h3>Places I Want to Avoid</h3>
     <dl>
         <dt>North Pole</dt> 
