@@ -51,7 +51,7 @@
             <p>
                 <code>&lt;h1&gt;Hello World!&lt;/h1&gt;</code> <!-- start/end tag of 'code' - this is the format if you want to put syntax code in HTML -->
            </p>
-        </figure> <!-- end tag of 'figure'>
+        </figure> <!-- end tag of 'figure'-->
 
         <h3>Why i love to Learn programming</h3>
         <p>Let me tell you how:
@@ -76,17 +76,17 @@
       	        <p>I've heard good things about the <em>Ascension Cathedral.</em></p>
 		   	<figure> <!--new added start tag of 'figure'"-->
         	    <img src="img/caribbean.jpg" alt="Ascension Cathedral" title="I want to visit Ascension Cathedral." width="400" height="225" loading="lazy">
-                   		<figcaption>Ascension Cathedral Getaway</figcaption>
+                <figcaption>Ascension Cathedral Getaway</figcaption>
             </figure> <!--end tag of 'figure'"-->
         	</li>
 		
         	<li> 
     	  		<p>I've heard good things about going here:</p>
-          	<address> 
+          		<address> 
       		 	Ascension Cathedral <br>  
      			Astrakhan, Russia<br>
      		 	Astrakhan Oblast 414000
-   			</address>
+   				</address>
 			<figure>
                 <img src="img/vacation.jpg" alt="Cancun Vacation" title="It's 5 o'Clock Somewhere!" width="400"height="267" loading="lazy">
                 <figcaption>Ascension Cathedral Image</figcaption>
@@ -98,46 +98,50 @@
 
             <li>
     	  		 <p>I've heard good things about the <em>Nakafurano Flower Park.</em></p>
-            <figure> <!--new added start tag of 'figure'"-->
+			<figure> <!--new added start tag of 'figure'"-->
         	    <img src="img/caribbean.jpg" alt="Nakafurano Flower Park" title="I want to visit Nakafurano Flower Park." width="400" height="225" loading="lazy">
-                   		<figcaption>Nakafurano Flower Park Getaway</figcaption>
+                <figcaption>Nakafurano Flower Park Getaway</figcaption>
             </figure> <!--end tag of 'figure'"-->
         	</li>
               
             <li>
-   		         <p>I've heard good things about going here:</p>
-            <address>
+   		        <p>I've heard good things about going here:</p>
+            	<address>
       			 2-1 Miyamachi, Nakafurano, Sorachi District<br>
       			 Hokkaido 071-0753<br>
      			 Japan
-    		</address>
-            <figure>
+    			</address>
+           <figure>
                 <img src="img/vacation.jpg" alt="Cancun Vacation" title="It's 5 o'Clock Somewhere!" width="400"height="267" loading="lazy">
                 <figcaption>Nakafurano Flower Park Image</figcaption>
-            </figure>	  
-            </li>
+           </figure>	  
+           </li>
               
             <!--3RD IMAGE-->
 
-			
             <li> 
     			<p>I've heard good things about the <em>Bacuit Bay</em></p>
+            <figure> <!--new added start tag of 'figure'"-->
+        	    <img src="img/caribbean.jpg" alt="Nakafurano Flower Park" title="I want to visit  Bacuit Bay." width="400" height="225" loading="lazy">
+                <figcaption> Bacuit Bay Getaway</figcaption>
+            </figure> <!--end tag of 'figure'"-->
    			</li>
+              
             <li>
          	 	<p>I've heard good things about going here:</p>
-   			<address>
+   				<address>
        			  Bacuit Bay, Palawan<br>
      			  Philippines <br>
-    		</address>
-      		</li>
+    			</address>      
+			<figure>
+                <img src="img/vacation.jpg" alt="Cancun Vacation" title="It's 5 o'Clock Somewhere!" width="400"height="267" loading="lazy">
+                <figcaption> Bacuit Bay Image</figcaption>
+           </figure>	    
+      	   </li>
     	</ul> 
               
               
-              
-              
-              
-              
-              	</ul> 
+</ul> 
 	
 
     <h3>Places I Want to Avoid</h3>
