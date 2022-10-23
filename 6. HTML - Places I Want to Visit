@@ -1,6 +1,7 @@
 <!-- <header>,  <nav aria-label="primary-navigation">, <main> element added-->
 <!-- <section id="html"> changed to <article id="html"> -->
 <!-- <aside>, <summary>, <details>, <time>, <datetime> added -->
+<!-- <section id="vacation"> changed to <article id="vacation"> -->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -78,32 +79,26 @@
         </section>
      </article> 
           
-          
-          
-          
-          
-          
-          
-          
-          
-          
- <!-- -->         
     <hr>
       
-    <section id="vacation">
+    <!-- -->    
+      
+    <article id="vacation"> <!-- <section id="vacation"> changed to <article id="vacation"> -->
         <h2>Second Phase</h2>
         <p>I've been working hard and <em>really need a getaway</em>.</p>
-	<p>I live in <abbr title="Valenzuela City">VA</abbr> so I want visit a different places.</p>
-      
+		<p>I live in <abbr title="Valenzuela City">VA</abbr> so I want visit a different places.</p>
+
+        <section> <!--start tag of 'section' added-->
         <h3>Place I'd Like to Visit</h3>
         <ul>
        		<li> 
       	        <p>I've heard good things about the <em>Ascension Cathedral.</em></p>
-		   	<figure> <!--new added start tag of 'figure'"-->
+		   	<figure>
         	    <img src="img/caribbean.jpg" alt="Ascension Cathedral" title="I want to visit Ascension Cathedral." width="400" height="225" loading="lazy">
                 <figcaption>Ascension Cathedral Getaway</figcaption>
-            </figure> <!--end tag of 'figure'"-->
+            </figure>
         	</li>
+              
 		
         	<li> 
     	  		<p>I've heard good things about going here:</p>
@@ -117,8 +112,8 @@
                 <figcaption>Ascension Cathedral Image</figcaption>
             </figure>	   
        		</li>
-         
-              
+                  
+                     
             <!--2ND IMAGE -->
 
             <li>
@@ -163,29 +158,37 @@
                 <figcaption> Bacuit Bay Image</figcaption>
            </figure>	    
       	   </li>
-      </ul>
-	
-
-    <h3>Places I Want to Avoid</h3>
-    <dl>
-        <dt>North Pole</dt> 
-        <dd>I hear this is <strong>cold</strong>!</dd> 
+    	 </ul>
+ 	   </section>          
+                  
+<!---->	
+	   <section>
+    		<h3>Places I Want to Avoid</h3>
+    		<dl>
+        		<dt>North Pole</dt> 
+        		<dd>I hear this is <strong>cold</strong>!</dd> 
 													  
-        <dt>South Pole</dt>
-        <dd>This is also cold.</dd>
+        		<dt>South Pole</dt>
+        		<dd>This is also cold.</dd>
 
-        <dt>Mountain Tops</dt>
-        <dd>These are also cold.</dd>
-    </dl>
-    </section>
+        		<dt>Mountain Tops</dt>
+        		<dd>These are also cold.</dd>
+    		</dl>
+    	</section>       
+     </article> <!-- start tag of 'article' added-->   
+ </main> <!-- end tag of 'main' added-->   
 
+                  
+                  
     <hr>
+      
+<footer>
+    <p>  
     &lt;&lt;&lt; &copy; <a href="about.html">Rye Ryan</a> &gt;&gt;&gt; 
-    <!-- when you click the "Rye Ryan" it goes at a new file the "about.html" -->
     <p>
-        <a href="#">Back to Top</a> <!-- when you click the "Back to Top" it goes at a top of this website -->
+        <a href="#">Back to Top</a>
     </p>
+</footer>
+  
 </body>
-
-</html>
-                   
+</html>              
