@@ -1,0 +1,183 @@
+<!-- image, figure, figcaption element added-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Rye Ryan">
+    <meta name="description" content="This page contains all the things I am learning how to create as I learn HTML from Dave Gray Tutorial">
+     <title> Rye Ryan's First Webpage </title>
+    <link rel="icon" href="html5.png" type="image/x-icon">
+    <link rel="stylesheet" href="main.css" type="text/css">
+    <style>
+        html {
+            font-size: 15px;
+        }
+
+        body {
+            background-color: #189;
+            color: white;
+        }
+    </style>
+</head>
+
+<!-- -->      
+<body>
+  <header> <!-- start tag of 'header' added -->
+    <h1>Welcome, Fellas!</h1>
+      
+    <nav aria-label="primary-navigation">  <!-- empty element of nav aria-label added -->
+        <ul>
+            <li>
+                <a href="#html">Learning HTML</a> <!--the '#html' is help to navigate the page-->
+            </li>
+            <li>
+                <a href="#vacation">Planning a Vacation</a> <!--the '#vacation' is help to navigate the page-->
+            </li>
+        </ul>
+    </nav>
+ </header> <!-- end tag of 'header' added -->
+      
+      
+  <!-- -->
+
+    <hr>
+    <main> <!-- start tag of 'main' added -->
+
+    <article id="html"> <!-- <section id="html"> changed to <article id="html"> -->
+        <h2>I'm Ready to Learn HTML</h2>
+        <p>This is my first web page.</p>
+
+        <section> <!-- start tag of 'section' added -->
+            <h3>HTML5</h3> <!--headline element added -->
+   			<img src="img/html_logo_300x300.png" alt="HTML5 Logo" title="I am learning HTML5" width="300" height="300"> 
+	
+        	<figure> 
+             <figcaption>An Example of HTML5 code</figcaption> 
+            	<p>
+                	<code>&lt;h1&gt;Hello World!&lt;/h1&gt;</code> 
+          	 	</p>
+        	</figure>
+        </section> <!-- end tag of 'section' added -->
+
+      
+      
+
+      
+        
+      
+<!-- -->      
+      
+      
+        <h3>Why i love to Learn programming</h3>
+        <p>Let me tell you how:
+        <ol>
+            <li>...because i'm suffering from Ligma Disease.</li>
+            <li>...no short haired chinita gf.</li>
+            <li>... i have two cock  <abbr title="Amogus"><a href="https://developer.mozilla.org/">SUS</a></abbr>.</li>
+        </ol>
+    </section>
+    
+
+    <hr>
+      
+    <section id="vacation">
+        <h2>Second Phase</h2>
+        <p>I've been working hard and <em>really need a getaway</em>.</p>
+	<p>I live in <abbr title="Valenzuela City">VA</abbr> so I want visit a different places.</p>
+      
+        <h3>Place I'd Like to Visit</h3>
+        <ul>
+       		<li> 
+      	        <p>I've heard good things about the <em>Ascension Cathedral.</em></p>
+		   	<figure> <!--new added start tag of 'figure'"-->
+        	    <img src="img/caribbean.jpg" alt="Ascension Cathedral" title="I want to visit Ascension Cathedral." width="400" height="225" loading="lazy">
+                <figcaption>Ascension Cathedral Getaway</figcaption>
+            </figure> <!--end tag of 'figure'"-->
+        	</li>
+		
+        	<li> 
+    	  		<p>I've heard good things about going here:</p>
+          		<address> 
+      		 	Ascension Cathedral <br>  
+     			Astrakhan, Russia<br>
+     		 	Astrakhan Oblast 414000
+   				</address>
+			<figure>
+                <img src="img/vacation.jpg" alt="Cancun Vacation" title="It's 5 o'Clock Somewhere!" width="400"height="267" loading="lazy">
+                <figcaption>Ascension Cathedral Image</figcaption>
+            </figure>	   
+       		</li>
+         
+              
+            <!--2ND IMAGE -->
+
+            <li>
+    	  		 <p>I've heard good things about the <em>Nakafurano Flower Park.</em></p>
+			<figure> <!--new added start tag of 'figure'"-->
+        	    <img src="img/caribbean.jpg" alt="Nakafurano Flower Park" title="I want to visit Nakafurano Flower Park." width="400" height="225" loading="lazy">
+                <figcaption>Nakafurano Flower Park Getaway</figcaption>
+            </figure> <!--end tag of 'figure'"-->
+        	</li>
+              
+            <li>
+   		        <p>I've heard good things about going here:</p>
+            	<address>
+      			 2-1 Miyamachi, Nakafurano, Sorachi District<br>
+      			 Hokkaido 071-0753<br>
+     			 Japan
+    			</address>
+           <figure>
+                <img src="img/vacation.jpg" alt="Cancun Vacation" title="It's 5 o'Clock Somewhere!" width="400"height="267" loading="lazy">
+                <figcaption>Nakafurano Flower Park Image</figcaption>
+           </figure>	  
+           </li>
+              
+            <!--3RD IMAGE-->
+
+            <li> 
+    			<p>I've heard good things about the <em>Bacuit Bay</em></p>
+            <figure> <!--new added start tag of 'figure'"-->
+        	    <img src="img/caribbean.jpg" alt="Nakafurano Flower Park" title="I want to visit  Bacuit Bay." width="400" height="225" loading="lazy">
+                <figcaption> Bacuit Bay Getaway</figcaption>
+            </figure> <!--end tag of 'figure'"-->
+   			</li>
+              
+            <li>
+         	 	<p>I've heard good things about going here:</p>
+   				<address>
+       			  Bacuit Bay, Palawan<br>
+     			  Philippines <br>
+    			</address>      
+			<figure>
+                <img src="img/vacation.jpg" alt="Cancun Vacation" title="It's 5 o'Clock Somewhere!" width="400"height="267" loading="lazy">
+                <figcaption> Bacuit Bay Image</figcaption>
+           </figure>	    
+      	   </li>
+      </ul>
+	
+
+    <h3>Places I Want to Avoid</h3>
+    <dl>
+        <dt>North Pole</dt> 
+        <dd>I hear this is <strong>cold</strong>!</dd> 
+													  
+        <dt>South Pole</dt>
+        <dd>This is also cold.</dd>
+
+        <dt>Mountain Tops</dt>
+        <dd>These are also cold.</dd>
+    </dl>
+    </section>
+
+    <hr>
+    &lt;&lt;&lt; &copy; <a href="about.html">Rye Ryan</a> &gt;&gt;&gt; 
+    <!-- when you click the "Rye Ryan" it goes at a new file the "about.html" -->
+    <p>
+        <a href="#">Back to Top</a> <!-- when you click the "Back to Top" it goes at a top of this website -->
+    </p>
+</body>
+
+</html>
+                   
