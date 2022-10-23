@@ -97,7 +97,8 @@
     
     
     
-    
+*************************************************************************************************************
+MY CONTENT
 
     <hr>
       
@@ -144,6 +145,48 @@
     		</address>
       		</li>
     	</ul> 
+	
+     *************************************************************************************************************
+     DAVES GRAY CONTENT
+	
+	
+	   <section id="vacation">
+        <h2>I Am Also Planning a Vacation</h2>
+        <p>I've been working hard and <em>really need a getaway</em>.</p>
+        <p>I live in <abbr title="Kansas">KS</abbr> so I want visit a beach.</p>
+
+        <h3>Places I'd Like to Visit</h3>
+        <ul>
+            <li>
+                <p>I've heard good things about the Caribbean.</p>
+                <figure>
+                    <img src="img/caribbean.jpg" alt="Caribbean Beach" title="I want to visit a Caribbean beach."
+                        width="400" height="225" loading="lazy">
+                    <figcaption>
+                        Caribbean Beach Getaway
+                    </figcaption>
+                </figure>
+            </li>
+            <li>
+                <p>I've heard good things about going here:</p>
+                <address>
+                    Margaritaville Island Reserve Riviera Cancún<br>
+                    Bahia Petempich Puerto Morelos, Mexico<br>
+                    Colonia Morelos, México 77580
+                </address>
+                <figure>
+                    <img src="img/vacation.jpg" alt="Cancun Vacation" title="It's 5 o'Clock Somewhere!" width="400"
+                        height="267" loading="lazy">
+                    <figcaption>
+                        A Caribbean Vacation Image
+                    </figcaption>
+                </figure>
+            </li>
+        </ul>
+	
+	     *************************************************************************************************************
+	
+	
       
     <h3>Places I Want to Avoid</h3>
     <dl>
