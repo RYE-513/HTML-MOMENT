@@ -43,59 +43,29 @@
     *************************************************************************************************************
     MY CONTENT
 
-    <section id="html"> <!-- start tag of section-->
+    <section id="html">
         <h2>This is my first HTML Outline</h2>
         <p>This is my first web page.</p>
 
+   	<img src="img/html_logo_300x300.png" alt="HTML5 Logo" title="I am learning HTML5" width="300" height="300"> 
+	<!-- image element <img src="image.jpeg" alt="This is alternate title of this image" title="I am learning HTML5" width="300" height="300" -->
+        <figure> <!-- start tag of 'figure'>
+            <figcaption>An Example of HTML5 code</figcaption> <!-- start/end tag of 'figcaption' - this is the title and combination for <code></code> -->
+            <p>
+                <code>&lt;h1&gt;Hello World!&lt;/h1&gt;</code> <!-- start/end tag of 'code' - this is the format if you want to put syntax code outline together with figcaption -->
+           </p>
+        </figure> <!-- end tag of 'figure'>
+
         <h3>Why i love to Learn programming</h3>
         <p>Let me tell you how:
-        <ol> <!-- start tag of ordered list-->
+        <ol>
             <li>...because i'm suffering from Ligma Disease.</li> <!--  <br>&nbsp;&nbsp;&nbsp; changed into <li> -->
             <li>...no short haired chinita gf.</li>
-            <li>... i have two cock  <abbr title="Amogus"><a href="https://developer.mozilla.org/">SUS</a> 
-            <!-- added anchor element-->
-                </abbr>.</li>
-        </ol> <!-- end tag of ordered list-->
-    </section> <!-- end tag of section-->
-    
-    
-    *************************
-    DAVE GRAY FORMAT
-    
-      <section id="html">
-        <h2>I'm Ready to Learn HTML</h2>
-        <p>This is my first web page.</p>
-        <img src="img/html_logo_300x300.png" alt="HTML5 Logo" title="I am learning HTML5" width="300" height="300">
-        <figure>
-            <figcaption>An Example of HTML5 code</figcaption>
-            <p>
-                <code>&lt;h1&gt;Hello World!&lt;/h1&gt;</code>
-            </p>
-        </figure>
-        <h3>My Daily Schedule</h3>
-        <p>Let me tell you how:</p>
-        <ol>
-            <li>...I learn more about web dev.</li>
-            <li>...I plan out my schedule.</li>
-            <li>...I use resources from <abbr title="Mozilla Developer Network">
-                    <a href="https://developer.mozilla.org/">MDN</a>
-                </abbr>.</li>
+            <li>... i have two cock  <abbr title="Amogus"><a href="https://developer.mozilla.org/">SUS</a></abbr>.</li>
         </ol>
     </section>
-   
-      *************************************************************************************************************
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
     
 *************************************************************************************************************
 MY CONTENT
