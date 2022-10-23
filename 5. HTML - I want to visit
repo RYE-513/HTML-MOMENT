@@ -1,0 +1,170 @@
+<!-- image, figure, figcaption element added-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Rye Ryan">
+    <meta name="description" content="This page contains all the things I am learning how to create as I learn HTML from Dave Gray Tutorial">
+     <title> Rye Ryan's First Webpage </title>
+    <link rel="icon" href="html5.png" type="image/x-icon">
+    <link rel="stylesheet" href="main.css" type="text/css">
+    <style>
+        html {
+            font-size: 15px;
+        }
+
+        body {
+            background-color: #189;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Welcome, Fellas!</h1>
+
+    <hr>
+
+    <nav>
+        <ul>
+            <li>
+                <a href="#html">Learning HTML</a> <!--the '#html' is help to navigate the page-->
+            </li>
+            <li>
+                <a href="#vacation">Planning a Vacation</a> <!--the '#vacation' is help to navigate the page-->
+            </li>
+        </ul>
+    </nav>
+
+    <hr>
+    
+    *************************************************************************************************************
+    MY CONTENT
+
+    <section id="html"> <!-- start tag of section-->
+        <h2>This is my first HTML Outline</h2>
+        <p>This is my first web page.</p>
+
+        <h3>Why i love to Learn programming</h3>
+        <p>Let me tell you how:
+        <ol> <!-- start tag of ordered list-->
+            <li>...because i'm suffering from Ligma Disease.</li> <!--  <br>&nbsp;&nbsp;&nbsp; changed into <li> -->
+            <li>...no short haired chinita gf.</li>
+            <li>... i have two cock  <abbr title="Amogus"><a href="https://developer.mozilla.org/">SUS</a> 
+            <!-- added anchor element-->
+                </abbr>.</li>
+        </ol> <!-- end tag of ordered list-->
+    </section> <!-- end tag of section-->
+    
+    
+    *************************
+    DAVE GRAY FORMAT
+    
+      <section id="html">
+        <h2>I'm Ready to Learn HTML</h2>
+        <p>This is my first web page.</p>
+        <img src="img/html_logo_300x300.png" alt="HTML5 Logo" title="I am learning HTML5" width="300" height="300">
+        <figure>
+            <figcaption>An Example of HTML5 code</figcaption>
+            <p>
+                <code>&lt;h1&gt;Hello World!&lt;/h1&gt;</code>
+            </p>
+        </figure>
+        <h3>My Daily Schedule</h3>
+        <p>Let me tell you how:</p>
+        <ol>
+            <li>...I learn more about web dev.</li>
+            <li>...I plan out my schedule.</li>
+            <li>...I use resources from <abbr title="Mozilla Developer Network">
+                    <a href="https://developer.mozilla.org/">MDN</a>
+                </abbr>.</li>
+        </ol>
+    </section>
+   
+      *************************************************************************************************************
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    <hr>
+      
+    <section id="vacation">
+        <h2>Second Phase</h2>
+        <p>I've been working hard and <em>really need a getaway</em>.</p>
+        <p>I live in <abbr title="Valenzuela City">VA</abbr> so I want visit a different places.</p>
+      
+        <h3>Place I'd Like to Visit</h3>
+        <ul>
+       		 <li> 
+      	  		<p>I've heard good things about the <em>Ascension Cathedral.</em></p>
+        	</li>
+        	<li> 
+    	  		<p>I've heard good things about going here:</p>
+          	<address> 
+      		 	Ascension Cathedral <br>  
+     			Astrakhan, Russia<br>
+     		 	Astrakhan Oblast 414000
+   		   </address>
+       		</li>
+       
+      
+        	<li>
+    	  		 <p>I've heard good things about the <em>Nakafurano Flower Park.</em></p>
+        	</li>
+            <li>
+   		         <p>I've heard good things about going here:</p>
+            <address>
+      			 2-1 Miyamachi, Nakafurano, Sorachi District<br>
+      			 Hokkaido 071-0753<br>
+     			 Japan
+    		</address> 
+            </li>
+
+            <li> 
+    			<p>I've heard good things about the <em>Bacuit Bay</em></p>
+   			</li>
+            <li>
+         	 	<p>I've heard good things about going here:</p>
+   			<address>
+       			  Bacuit Bay, Palawan<br>
+     			  Philippines <br>
+    		</address>
+      		</li>
+    	</ul> 
+      
+    <h3>Places I Want to Avoid</h3>
+    <dl>
+        <dt>North Pole</dt> 
+        <dd>I hear this is <strong>cold</strong>!</dd> 
+													  
+        <dt>South Pole</dt>
+        <dd>This is also cold.</dd>
+
+        <dt>Mountain Tops</dt>
+        <dd>These are also cold.</dd>
+    </dl>
+    </section>
+
+    <hr>
+    &lt;&lt;&lt; &copy; <a href="about.html">Rye Ryan</a> &gt;&gt;&gt; 
+    <!-- when you click the "Rye Ryan" it goes at a new file the "about.html" -->
+    <p>
+        <a href="#">Back to Top</a> <!-- when you click the "Back to Top" it goes at a top of this website -->
+    </p>
+</body>
+
+</html>
+                   
