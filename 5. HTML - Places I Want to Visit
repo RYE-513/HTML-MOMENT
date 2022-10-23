@@ -73,11 +73,11 @@
         <h3>Place I'd Like to Visit</h3>
         <ul>
        		<li> 
-      	        	<p>I've heard good things about the <em>Ascension Cathedral.</em></p>
-		   	<figure> <--new added start/end tag of figure"-->
-        	            <img src="img/caribbean.jpg" alt="Caribbean Beach" title="I want to visit a Caribbean beach." width="400" height="225" loading="lazy">
-                   		<figcaption>Caribbean Beach Getaway</figcaption>
-                	</figure>
+      	        <p>I've heard good things about the <em>Ascension Cathedral.</em></p>
+		   	<figure> <!--new added start tag of 'figure'"-->
+        	    <img src="img/caribbean.jpg" alt="Ascension Cathedral" title="I want to visit Ascension Cathedral." width="400" height="225" loading="lazy">
+                   		<figcaption>Ascension Cathedral Getaway</figcaption>
+            </figure> <!--end tag of 'figure'"-->
         	</li>
 		
         	<li> 
@@ -86,28 +86,40 @@
       		 	Ascension Cathedral <br>  
      			Astrakhan, Russia<br>
      		 	Astrakhan Oblast 414000
-   		</address>
-		<figure>
-                	    <img src="img/vacation.jpg" alt="Cancun Vacation" title="It's 5 o'Clock Somewhere!" width="400"height="267" loading="lazy">
-                    	<figcaption>A Caribbean Vacation Image</figcaption>
-                </figure>
-		   
+   			</address>
+			<figure>
+                <img src="img/vacation.jpg" alt="Cancun Vacation" title="It's 5 o'Clock Somewhere!" width="400"height="267" loading="lazy">
+                <figcaption>Ascension Cathedral Image</figcaption>
+            </figure>	   
        		</li>
-		
-		
+         
+              
+            <!--2ND IMAGE -->
 
-        	<li>
+            <li>
     	  		 <p>I've heard good things about the <em>Nakafurano Flower Park.</em></p>
+            <figure> <!--new added start tag of 'figure'"-->
+        	    <img src="img/caribbean.jpg" alt="Nakafurano Flower Park" title="I want to visit Nakafurano Flower Park." width="400" height="225" loading="lazy">
+                   		<figcaption>Nakafurano Flower Park Getaway</figcaption>
+            </figure> <!--end tag of 'figure'"-->
         	</li>
+              
             <li>
    		         <p>I've heard good things about going here:</p>
             <address>
       			 2-1 Miyamachi, Nakafurano, Sorachi District<br>
       			 Hokkaido 071-0753<br>
      			 Japan
-    		</address> 
+    		</address>
+            <figure>
+                <img src="img/vacation.jpg" alt="Cancun Vacation" title="It's 5 o'Clock Somewhere!" width="400"height="267" loading="lazy">
+                <figcaption>Nakafurano Flower Park Image</figcaption>
+            </figure>	  
             </li>
+              
+            <!--3RD IMAGE-->
 
+			
             <li> 
     			<p>I've heard good things about the <em>Bacuit Bay</em></p>
    			</li>
@@ -119,6 +131,13 @@
     		</address>
       		</li>
     	</ul> 
+              
+              
+              
+              
+              
+              
+              	</ul> 
 	
 
     <h3>Places I Want to Avoid</h3>
